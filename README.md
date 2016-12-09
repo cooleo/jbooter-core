@@ -1,2 +1,1 @@
-# jbooter-core
-jBooter
+#jbooter-core
